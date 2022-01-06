@@ -103,10 +103,10 @@ function sendTransaction(isAdding) {
   if (!isAdding) {
     transaction.value *= -1;
   }
-
+  console.log("TRANSACTION TYPE"+typeof transactions);
   // add to beginning of current array of data
   transactions.unshift(transaction);
-  console.log("TRANSACTION TYPE"+typeof transactions);
+ 
 
   // re-run logic to populate ui with new record
   populateChart();
