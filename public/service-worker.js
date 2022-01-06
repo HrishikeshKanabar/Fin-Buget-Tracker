@@ -2,7 +2,7 @@ const CACHE_NAME = 'FIN' + 'V1';
 
 const FILES_TO_CACHE = [
   "./index.html",
-  "./js/idb.js",
+  "./js/indexdb.js",
   "./js/index.js",
   "./manifest.json",
   "./css/styles.css",
