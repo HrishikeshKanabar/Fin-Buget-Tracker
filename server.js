@@ -20,7 +20,7 @@ mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useFindAndModify: false
 });
-// Heroku Check
+// Heroku Check 1
 // routes
 app.use(require("./routes/api.js"));
 
