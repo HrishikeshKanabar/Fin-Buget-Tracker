@@ -14,7 +14,7 @@ https://stark-shelf-76985.herokuapp.com/
 
 1.) You can add you expense by clicking "Add Funds" button.
 
-2.) You can subtract your expenses by clicking "Add Funds" button.
+2.) You can subtract your expenses by clicking "Subtract Funds" button.
 
 3.) Click on top corner to download local destop add and you perform all above action offline.
 
