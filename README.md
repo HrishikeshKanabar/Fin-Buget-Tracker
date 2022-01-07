@@ -4,7 +4,7 @@
 
 [Github:] (https://github.com/HrishikeshKanabar)
 
-# Visit the App (Video Demo)
+# Visit the App (Demo)
 
 https://stark-shelf-76985.herokuapp.com/
  
@@ -26,7 +26,7 @@ https://stark-shelf-76985.herokuapp.com/
   
 App view in insomia       
 :--------------------------------:|
-![App Start](https://github.com/HrishikeshKanabar/Fin-Buget-Tracker.git)      
+![App Start](https://github.com/HrishikeshKanabar/Fin-Buget-Tracker/blob/main/public/Assets/PWA.JPG)      
 
 
 ## Requirement achieved 
